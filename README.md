@@ -1,4 +1,4 @@
-# PWM with Variable Duty Cycle and Frequency
+# PWM with Variable Duty Cycle and Frequency on Arduino
 
 [PWM on arduino with variable duty cycle (0 - 100) and frequency (any value in MHz).]
 
