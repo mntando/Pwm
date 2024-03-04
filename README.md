@@ -10,8 +10,8 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Features
-- [Variable duty cycle and frequency.]
-- [Read duty cycle and frequency from variable resistors]
+- Variable duty cycle and frequency.
+- Read duty cycle and frequency from variable resistors
 
 ## Getting Started
 Get the Pwm.zip and install to Arduino IDE to be able to use ``` #include Pwm.h``` and its functions.
@@ -35,8 +35,8 @@ const int frequencyPin = A1; // Analog pin for frequency control
 - Pwm.
 
 ### Installation
-[Install Pwm to your Arduino IDE.]
-[Get the provided code.]
+- Install Pwm to your Arduino IDE.
+- Get the provided code.
 
 ## Contributing
 1. Fork the repository.
@@ -46,4 +46,4 @@ const int frequencyPin = A1; // Analog pin for frequency control
 
 
 ## Acknowledgements
-- Original library: [https://code.google.com/archive/p/arduino-pwm-frequency-library/downloads]
+- [Original library](https://code.google.com/archive/p/arduino-pwm-frequency-library/downloads)
