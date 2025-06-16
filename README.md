@@ -15,8 +15,7 @@ PWM on arduino with variable duty cycle (0 - 100) and frequency (any value in MH
 
 ## Getting Started
 Get the Pwm.zip and install to Arduino IDE to be able to use ``` #include Pwm.h``` and its functions.
-The variable resistors are connected to A0 and A1 to vary the duty cycle and frequency respectively.
-[How to install](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)
+The variable resistors are connected to A0 and A1 to vary the duty cycle and frequency respectively. [How to install](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries/)
 
 ```cpp
 const int dutyCyclePin = A0; // Analog pin for duty cycle control
