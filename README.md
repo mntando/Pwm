@@ -33,7 +33,7 @@ const int frequencyPin = A1; // Analog pin for frequency control
 
 ### Prerequisites
 - Arduino IDE installed.
-- Pwm.
+- Pwm installed to arduino.
 
 ### Installation
 - Install Pwm to your Arduino IDE.
